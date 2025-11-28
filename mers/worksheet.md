@@ -1,9 +1,4 @@
-# Assignment 1 - MERS
----
-Written by Luis Felipe Montemayor, sometime around November of 2025.
-
-https://open.spotify.com/track/5nc6jwPfSnVcsxCQSizAaO?si=694cb2ac8ab243a2
----
+# Epidemiology assignment - MERS
 
 We will be working with data from the 2015 MERS (Middle East respiratory syndrome) outbreak, caused by a viral infection. It's quite rare, but it can be very serious. It paints a more severe clinical picture than COVID-19 or SARS, two other common respiratory diseases.
 
@@ -58,6 +53,16 @@ b) Visualise the distribution of secondary cases. What does the shape of your pl
 c) Summarise the demographic profile of the "super spreader" using both datasets. Based on where they were infected and their demographic profile, hypothesize a social reason why this specific individual had such a high number of secondary cases.
 
 _Bonus_ - Test the "Pareto Principle" (the 20/80 rule) on this data. Calculate what percentage of the total infections were caused by the top 20% of infectors. Does this outbreak fit the rule?
+
+
+
+
+
+
+---
+Written by Luis Felipe Montemayor, sometime around November of 2025.\
+https://open.spotify.com/track/5nc6jwPfSnVcsxCQSizAaO?si=694cb2ac8ab243a2
+--- 
 
 
 <details close>
